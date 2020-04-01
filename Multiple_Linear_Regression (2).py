@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 18 16:33:23 2020
 
-@author: LENOVO
-"""
 
 #multiple linear regression 
 
